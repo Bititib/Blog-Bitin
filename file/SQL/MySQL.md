@@ -20,13 +20,13 @@
 
 点击下载地址[https://dev.mysql.com/downloads/installer/](https://dev.mysql.com/downloads/installer/)
 
-![image-20230404153146501](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230404153146501.png)
+<img src="../images/image-20230404153146501.png"/>
 
 > **``推荐下载第二个``**：第一个体积小功能相对应也会少；
 
 下载完了之后在本地服务中查看MySQL是否启动
 
-![image-20230404170042858](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230404170042858.png)
+<img src="../images/image-20230404170042858.png"/>
 
 在终端中输入MySQL
 
