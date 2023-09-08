@@ -3,7 +3,7 @@
    * [Express](/file/Node/Express.md)
    * [Koa](/file/Node/Koa.md)
    * [Steam](/file/Node/steam.md)
-   * [JWT Token](/file/JWT/token.md)
+   * [JWT Token](/file/JWT Token/token.md)
 * SQL
    * [MySQL](/file/SQL/MySQL.md)
 
