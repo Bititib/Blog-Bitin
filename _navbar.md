@@ -7,7 +7,7 @@
    
    * [Steam](/file/Node/steam.md)
    
-   * [JWT Token](/file/JWT Token/token.md)
+   * [JWT Token](/file/JWT/token.md)
    
      待开中~
    
